@@ -8,6 +8,8 @@ import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import androidx.room.*
 
+//pit thamai
+
 @Dao
 interface GrocerryDao {
 
